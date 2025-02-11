@@ -1,5 +1,6 @@
 # pythonChatApp
-Python project for end of course exam: Chat application built with pyQT and Sqlite.
+Python project for end of course exam: A Simple Chat application built with pyQT and Sqlite.
+This projects shows off basic functionalities for a chat app.
 
 Functional Requirements:
 
